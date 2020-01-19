@@ -6,9 +6,9 @@ A machine learing model using pipeline to categorize these messages into various
 One message can be associated to multiple categories hence a multi-ouput ML model is required.
 
 A WebApp where user can enter any new message to see various possible categories to which that message may belong to, 
-on webapp few graphs to analyse training dataset.
+few graphs to analyse training dataset.
 
-Dataset provide by FigureEight (https://www.figure-eight.com/)
+Dataset provided by FigureEight (https://www.figure-eight.com/)
 
 
 
